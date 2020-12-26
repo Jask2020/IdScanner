@@ -14,6 +14,9 @@ After the file is selected, the path to file is outputted and the image is displ
 
 ![image](https://user-images.githubusercontent.com/71396561/103150845-0937f880-479e-11eb-80f7-70a784370fde.png)
 
+![image](https://user-images.githubusercontent.com/71396561/103150925-08539680-479f-11eb-8271-d714ca6b52a9.png)
+
+
 Using the Pillow library, the ID card is grayscaled as well as converted to four different binarized versions with different threshold values. All these versions are stored in an array.
 
 ## Text and Image Recognition
